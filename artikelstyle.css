@@ -1,0 +1,20 @@
+.jumbotron{
+	background: url("http://4.bp.blogspot.com/-PnJn2-UMXss/TV8uOULncHI/AAAAAAAAD8w/jQxODf71KIk/s1600/foto2+Gunung+Bromo+indonesia.jpg")no-repeat center center fixed;
+	height:700px;
+	margin-top: -120px;
+	padding-top: 100px;
+	background-size: cover;
+	max-height: 1200px;
+}
+
+
+{
+	font-family: canva;
+	color: white;
+	margin-top: 200px;
+	font-size: 50px;
+}
+
+.isi{
+	margin-top: -200px;
+}
